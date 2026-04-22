@@ -31,3 +31,9 @@ function calculateSquare(num) {
 }
 console.log(calculateSquare(2));
 console.log(calculateSquare(9));
+
+function calculateSquareRoot(num) {
+  return Math.sqrt(num);
+}
+console.log(calculateSquareRoot(25));
+console.log(calculateSquareRoot(100));
